@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aspbasecode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1fc67ada33058db5bd9b2ecfd8a824df0190301")]
 [assembly: System.Reflection.AssemblyProductAttribute("aspbasecode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aspbasecode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

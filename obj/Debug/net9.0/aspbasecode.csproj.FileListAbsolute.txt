@@ -394,3 +394,4 @@
 /home/ti/Documentos/vs/asp/aspbasicocode/aspbasecode/obj/Debug/net9.0/aspbasecode.pdb
 /home/ti/Documentos/vs/asp/aspbasicocode/aspbasecode/obj/Debug/net9.0/aspbasecode.genruntimeconfig.cache
 /home/ti/Documentos/vs/asp/aspbasicocode/aspbasecode/obj/Debug/net9.0/ref/aspbasecode.dll
+/home/ti/Documentos/vs/asp/aspbasicocode/aspbasecode/obj/Debug/net9.0/aspbasecode.sourcelink.json
